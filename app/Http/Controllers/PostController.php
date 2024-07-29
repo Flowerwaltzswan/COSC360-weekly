@@ -14,6 +14,7 @@ class PostController extends Controller
         // return "I am from Post index Method";
         $posts = Post::all(); // now eloquent syntax
         // dd($posts);
+        // dd(Post::factory()->create());
         return view('Posts.index', compact('posts'));
     }
 
