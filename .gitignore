@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /.phpunit.cache
 /node_modules
 /public/build
@@ -20,6 +21,8 @@ yarn-error.log
 /.vscode
 
 # added defaults in laragon gitignore
+=======
+>>>>>>> 365082e16a4c0661dcc36dcb04098114afde05f4
 /vendor/
 node_modules/
 npm-debug.log
@@ -42,4 +45,8 @@ storage/*.key
 Homestead.yaml
 Homestead.json
 /.vagrant
+<<<<<<< HEAD
 .phpunit.result.cache
+=======
+.phpunit.result.cache
+>>>>>>> 365082e16a4c0661dcc36dcb04098114afde05f4
